@@ -1,0 +1,16 @@
+hospital_branch,treatment_type,max_cost,min_cost
+"Westside Clinic",X-Ray,4652,935
+"Westside Clinic",Physiotherapy,4331,1287
+"Westside Clinic",ECG,4961,968
+"Westside Clinic",Chemotherapy,4965,534
+"Westside Clinic",MRI,4672,1864
+"Eastside Clinic",MRI,4716,663
+"Eastside Clinic",Physiotherapy,4541,1556
+"Eastside Clinic",ECG,4672,582
+"Eastside Clinic",Chemotherapy,4945,616
+"Eastside Clinic",X-Ray,4833,807
+"Central Hospital",MRI,4966,894
+"Central Hospital",Physiotherapy,4846,956
+"Central Hospital",Chemotherapy,4479,695
+"Central Hospital",X-Ray,4974,864
+"Central Hospital",ECG,4550,606

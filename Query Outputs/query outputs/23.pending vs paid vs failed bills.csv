@@ -1,0 +1,4 @@
+payment_status,num_of_bills,total_amount
+Pending,69,184610
+Paid,64,173423
+Failed,67,193212
